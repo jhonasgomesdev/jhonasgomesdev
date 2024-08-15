@@ -5,6 +5,7 @@
 - 💼 Trabalhando como Analista Comercial na Med Sam Distribuidora de Produtos LTDA.
 - 🌱 Aprendendo mais sobre .NET.
 
+
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -16,6 +17,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 **DevOps**
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -25,8 +27,9 @@
 **Ferramentas de desenvolvimento**
 
 <a href="https://github.com/RyakunaRK" title="Perfil do Jhonas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyakunaRK&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyakunaRK&theme=highcontrast&show_icons=true" />
 </a>
+
 
 ## Onde me encontrar
 
