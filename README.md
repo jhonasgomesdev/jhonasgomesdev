@@ -1,4 +1,4 @@
-## Sobre mim
+## Um pouco sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas de Informação no Centro Universitário Lasalle Rio de Janeiro.
