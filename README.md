@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas de Informação no Centro Universitário Lasalle Rio de Janeiro.
 - 💼 Trabalhando como Analista Comercial na Med Sam Distribuidora de Produtos LTDA.
-- 🌱 Aprendendo mais sobre C#, .NET.
+- 🌱 Aprendendo mais sobre .NET.
 
 ## Minhas Skills
 
