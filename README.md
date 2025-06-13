@@ -26,7 +26,7 @@
 **Ferramentas de desenvolvimento**
 
 <a href="https://github.com/RyakunaRK" title="Perfil do Jhonas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyakunaRK&theme=highcontrast&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonasgomesdev&theme=highcontrast&show_icons=true" />
 </a>
 
 
@@ -38,4 +38,4 @@
 [![GitHub](https://img.shields.io/github/followers/RyakunaRK?label=follow&style=social)](https://github.com/RyakunaRK)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RyakunaRKfvc&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jhonasgomesdevfvc&icon=1&color=1)](https://visitcount.itsvg.in)
