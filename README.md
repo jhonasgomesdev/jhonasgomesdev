@@ -8,17 +8,21 @@
 
 ---
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Linguagens, Frameworks e Ferramentas
 
 **Back-End**
   
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java&theme=dark)](https://skillicons.dev)
 
 **Front-End**
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,css&theme=dark)](https://skillicons.dev)
 
 **Banco de Dados**
 
@@ -33,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/jhonasgomesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonasgomesdev&show_icons=true&theme=highcontrast&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonasgomesdev&show_icons=true&theme=merko&count_private=true" alt="Estatísticas do GitHub" />
 </a>
 
 ---
