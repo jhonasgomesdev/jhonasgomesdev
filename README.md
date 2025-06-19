@@ -8,10 +8,6 @@
 
 ---
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Linguagens, Frameworks e Ferramentas
