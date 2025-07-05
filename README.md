@@ -14,7 +14,7 @@
 
 **Back-End**
   
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,ruby&theme=dark)](https://skillicons.dev)
 
 **Front-End**
 
