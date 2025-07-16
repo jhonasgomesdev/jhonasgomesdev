@@ -1,50 +1,11 @@
-<h1 align="center">Olá, eu sou o Jhonas 👋</h1>
-
 <p align="center">
-🎓 Estudante de Sistemas de Informação na <strong>Unilasalle-RJ</strong><br>
-🧠 Apaixonado por tecnologia, focado em <strong>Back-End com .NET</strong><br>
-🚀 Em constante evolução, atualmente estudando ASP.NET Core, Entity Framework e boas práticas de desenvolvimento
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7FB77E&center=true&vCenter=true&width=435&lines=%E2%9C%B8+Welcome+to+my+profile!+%E2%9C%B8" alt="Typing SVG" />
 </p>
 
----
+##
 
-## 🛠️ Tech Stack
-
-### Linguagens, Frameworks e Ferramentas
-
-**Back-End**
-  
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,ruby&theme=dark)](https://skillicons.dev)
-
-**Front-End**
-
-[![My Skills](https://skillicons.dev/icons?i=react,angular,css&theme=dark)](https://skillicons.dev)
-
-**Banco de Dados**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-
-**Versionamento e Ferramentas**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/jhonasgomesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonasgomesdev&show_icons=true&theme=merko&count_private=true" alt="Estatísticas do GitHub" />
-</a>
-
----
-
-## 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhonasgomes/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:jhonas.prodev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  Estudante de Sistemas de Informação no Centro Universitário La Salle – RJ e desenvolvedor júnior focado em .NET.
+  Tenho experiência com C#, ASP.NET Core, Entity Framework e bancos de dados relacionais.
+  Busco constantemente aprimorar meus conhecimentos e enfrentar novos desafios na área de tecnologia, aplicando soluções eficientes e de qualidade.
 </p>
----
