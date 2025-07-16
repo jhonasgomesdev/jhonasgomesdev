@@ -47,3 +47,13 @@
     </td>
   </tr>
 </table>
+
+##
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonasgomesdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonasgomesdev&layout=compact&theme=gotham&hide_border=true" height="165" />
+</p>
+
