@@ -57,3 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonasgomesdev&layout=compact&theme=gotham&hide_border=true" height="165" />
 </p>
 
+##
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jhonasgomesdev/jhonasgomesdev/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
