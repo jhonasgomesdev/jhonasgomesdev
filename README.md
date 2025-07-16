@@ -60,5 +60,5 @@
 ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhonasgomesdev/jhonasgomesdev/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/jhonasgomesdev/jhonasgomesdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
