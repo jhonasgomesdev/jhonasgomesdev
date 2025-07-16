@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,18 +19,13 @@ jobs:
           github_user_name: jhonasgomesdev
           outputs: |
             dist/github-contribution-grid-snake.svg
-          palette: |
-            - "#F1F1F1"
-            - "#CDE3D4"
-            - "#AADDC0"
-            - "#88CCAA"
-            - "#88CCAA"
+          palette: '#F1F1F1 #CDE3D4 #AADDC0 #88CCAA #88CCAA'
           color_snake: "#B388EB"
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
