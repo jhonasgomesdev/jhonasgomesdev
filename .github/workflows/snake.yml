@@ -19,11 +19,8 @@ jobs:
           github_user_name: jhonasgomesdev
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: "#88CCAA"
-          color_dots: "#2C2C2C,#88CCAA"
-          width: 1080
-          height: 250
-          duration: 5
+          color_snake: "#B388EB"
+          color_dots: "#1F1F1F,#88CCAA,#88CCAA,#88CCAA,#88CCAA"
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
