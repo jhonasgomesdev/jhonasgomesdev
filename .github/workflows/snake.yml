@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           color_snake: "#B388EB"           # roxo pastel da cobra
-          color_dots: "#1F1F1F,#88CCAA"    # fundo escuro e verde pastel
+          color_dots: "#1F1F1F"    # fundo escuro e verde pastel
           width: 1080
           height: 250
           duration: 5
