@@ -58,7 +58,3 @@
 </p>
 
 ##
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jhonasgomesdev/jhonasgomesdev/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
