@@ -19,7 +19,7 @@ jobs:
           github_user_name: jhonasgomesdev
           outputs: |
             dist/github-contribution-grid-snake.svg
-          palette: '#F1F1F1 #CDE3D4 #AADDC0 #88CCAA #88CCAA'
+          palette: '#1F1F1F #CDE3D4 #AADDC0 #88CCAA #365144'
           color_snake: "#B388EB"
 
       - name: Push to the output branch
