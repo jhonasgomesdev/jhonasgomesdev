@@ -9,9 +9,9 @@
 ##
 
 <p align="center">
-  Estudante de Sistemas de Informação no Centro Universitário La Salle – RJ e desenvolvedor júnior focado em .NET.
-  Tenho experiência com C#, ASP.NET Core, Entity Framework e bancos de dados relacionais.
-  Busco constantemente aprimorar meus conhecimentos e enfrentar novos desafios na área de tecnologia, aplicando soluções eficientes e de qualidade.
+  Graduado em Sistemas de Informação no Centro Universitário La Salle – RJ e desenvolvedor júnior focado em .NET.
+  Tenho experiência com C#, ASP.NET Core, Entity Framework, React.js e bancos de dados relacionais e não relacionais.
+  Busco constantemente aprimorar meus conhecimentos e enfrentar novos desafios na área de tecnologia, aplicando soluções eficientes e de qualidade. Com forte desejos para criação de coisas novas e desafios.
 </p>
 
 ##
